@@ -1,0 +1,16 @@
+﻿{
+  "name": "adb-auto-tapper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A browser-controlled ADB auto tapper for connected Android devices.",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js",
+    "build-apk": "powershell -ExecutionPolicy Bypass -File scripts/build-apk.ps1"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="modes">
+    <item>顺序点击</item>
+    <item>随机点击</item>
+    <item>单点模式</item>
+  </string-array>
+  <string-array name="gestures">
+    <item>普通点击</item>
+    <item>长按</item>
+    <item>滑动</item>
+    <item>多点同时</item>
+  </string-array>
+</resources>

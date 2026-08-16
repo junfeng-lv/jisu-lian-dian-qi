@@ -1,0 +1,15 @@
+# 本地构建产物
+build/
+__pycache__/
+*.pyc
+*.class
+*.dex
+
+# 签名密钥，请勿提交
+*.jks
+.android_keystore.jks
+
+# 本地生成的旧文件
+auto_tapper.apk
+enc_test.txt
+scripts/_test_write.py
